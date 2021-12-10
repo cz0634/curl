@@ -6,7 +6,7 @@
  * Time: 13:47
  */
 
-namespace cz;
+namespace CzCurl;
 
 class Request {
 
