@@ -1,5 +1,5 @@
 {
-    "name": "czCurl/request",
+    "name": "cz-curl/request",
     "description": "cz's curl request",
     "type": "library",
     "require": {
