@@ -1,0 +1,21 @@
+{
+    "name": "cz/cz-request",
+    "description": "cz's curl request",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cz0634",
+            "email": "cz0634@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cz\\Request\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
